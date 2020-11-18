@@ -1,4 +1,5 @@
 # GameBoy_arduino
+привет это мой пук-пук форк вектазврика
 Source code of gameBoy from video on YouTube channel "Vectozavr"
 
 This project can be run on any arduino platforms:
